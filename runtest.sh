@@ -1,0 +1,1 @@
+php ./vendor/bin/phpunit -c ./phpunit.xml tests --group configuration
